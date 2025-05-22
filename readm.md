@@ -1,0 +1,1 @@
+# Testes com AMD ROCm na RX7600
